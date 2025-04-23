@@ -1,3 +1,3 @@
-# Intro into Data Science
+# Intro intro Data Science
 
-This is an into, and my notebook from my data science class
+This is an intro, and my notebook from my data science class
